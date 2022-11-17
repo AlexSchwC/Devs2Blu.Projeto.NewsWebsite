@@ -1,0 +1,19 @@
+.bg-custom {
+    background-color: #4259d6;
+}
+
+.border-custom {
+    border-bottom: 5px solid #4259d6;
+}
+
+.bg-gradient-custom {
+    linear-gradient(#4259d6, #8193fc);
+}
+
+.fs-custom {
+    color: #4259d6;
+}
+
+* {
+    list-style: none;
+}
